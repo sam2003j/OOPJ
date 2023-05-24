@@ -1,0 +1,3 @@
+Design a Base class STACK and Handle runtime anomalies like Overflow when the stack is full
+and underflow when the stack is empty. Display error codes and messages by using appropriate
+try and catch block to handle the exceptions thrown 
